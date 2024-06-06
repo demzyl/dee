@@ -1,0 +1,17 @@
+.tolu {
+  color: green;
+  font-size: 60px;
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  /* border: 4px solid blue; */
+  background-color: brown;
+}
+.adejoke{
+    color: blue;
+}
+#kunbi{color: brown;}
+h6{color: blue;}
